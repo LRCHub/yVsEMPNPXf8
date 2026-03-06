@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "ダーリン (Off Vocal)",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2026-03-06T15:09:31.019409Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ダーリン。",
+      "artist": "Official HIGE DANdism",
+      "has_synced": true,
+      "path": "select/01_ダーリン。_Official_HIGE_DANdism.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ダーリン。",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/02_ダーリン。_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ダーリン",
+      "artist": "Maretu",
+      "has_synced": true,
+      "path": "select/03_ダーリン_Maretu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ダーリン",
+      "artist": "須田景凪",
+      "has_synced": false,
+      "path": "select/04_ダーリン_須田景凪.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "約束_ダーリン",
+      "artist": "Haruka Tomatsu",
+      "has_synced": true,
+      "path": "select/05_約束_ダーリン_Haruka_Tomatsu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "約束 ダーリン",
+      "artist": "戸松遥",
+      "has_synced": true,
+      "path": "select/06_約束_ダーリン_戸松遥.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ダーリン",
+      "artist": "須田景凪",
+      "has_synced": true,
+      "path": "select/07_ダーリン_須田景凪.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ダーリン",
+      "artist": "桑田佳祐",
+      "has_synced": true,
+      "path": "select/08_ダーリン_桑田佳祐.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ダーリン(TV Size ver)(歌唱:ココロ)",
+      "artist": "XX:me",
+      "has_synced": true,
+      "path": "select/09_ダーリン(TV_Size_ver)(歌唱_ココロ)_XX_me.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ダーリン (TV Size ver.)",
+      "artist": "ココロ",
+      "has_synced": true,
+      "path": "select/10_ダーリン_(TV_Size_ver.)_ココロ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Choose me ダーリン",
+      "artist": "StylipS",
+      "has_synced": true,
+      "path": "select/11_Choose_me_ダーリン_StylipS.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ダーリン (TV Size ver)",
+      "artist": "XX:me",
+      "has_synced": true,
+      "path": "select/12_ダーリン_(TV_Size_ver)_XX_me.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ダーリン P.P.P.",
+      "artist": "Crystal Kay",
+      "has_synced": false,
+      "path": "select/13_ダーリン_P.P.P._Crystal_Kay.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ダーリン [2022 Remaster]",
+      "artist": "桑田佳祐",
+      "has_synced": false,
+      "path": "select/14_ダーリン_[2022_Remaster]_桑田佳祐.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ダーリン - From THE FIRST TAKE",
+      "artist": "須田景凪",
+      "has_synced": true,
+      "path": "select/15_ダーリン_-_From_THE_FIRST_TAKE_須田景凪.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ダーリン I LOVE YOU (Berryz工房 Ver.)",
+      "artist": "berryzkobo",
+      "has_synced": true,
+      "path": "select/16_ダーリン_I_LOVE_YOU_(Berryz工房_Ver.)_berryzkobo.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ダーリン I LOVE YOU (°C-ute Ver.)",
+      "artist": "℃-ute",
+      "has_synced": true,
+      "path": "select/17_ダーリン_I_LOVE_YOU_(°C-ute_Ver.)_°C-ute.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Choose me♡ダーリン",
+      "artist": "StylipS",
+      "has_synced": true,
+      "path": "select/18_Choose_me♡ダーリン_StylipS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ダーリン",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_ダーリン_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
